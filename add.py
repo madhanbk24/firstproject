@@ -1,4 +1,4 @@
-a=13
+a=22
 b=2
 print(a*b)
 print("hello")
